@@ -1,1 +1,15 @@
 theme: jekyll-theme-merlot
+url : "https://taniyap690.github.io/"
+title: Taniya Patel
+email: taniyap690@gmail.com
+description: A Mystery nobody should be interested to unravel
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jinayshah7.github.io/" # the base hostname & protocol for your site
+# youtube_username: jinayshah
+github_username:  taniya690
+paginate: 50
+theme-dark: false #Set to true to change to dark website theme
+
+plugins: [jekyll-paginate, kramdown]
+# Build settings
+markdown: kramdown

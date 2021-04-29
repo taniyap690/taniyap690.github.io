@@ -3,3 +3,5 @@ plugins:
 title: "Taniya Patel's Stories"
 description: Welcome to my blog
 author: Taniya Patel
+
+theme: jekyll-theme-cayman

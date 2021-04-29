@@ -1,7 +1,13 @@
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://taniyap690.github.io/" # the base hostname & protocol for your site
+# youtube_username: jinayshah
+github_username:  taniyap690
+theme-dark: false #Set to true to change to dark website theme
+
+# Build settings
 plugins:
   - jekyll-feed
-title: "Taniya Patel's Stories"
+title: Taniya Patel's Stories
 description: Welcome to my blog
 author: Taniya Patel
-
-theme: jekyll-theme-cayman
